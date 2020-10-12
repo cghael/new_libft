@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 t_fstring		*ft_add_dig_to_int(t_fstring *numb)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 void		ft_c(t_arg *ap_t, t_res *buf_t, t_ftptf *tmp_t)
 {

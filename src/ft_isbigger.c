@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 /*
 ** ft_isbigger() compare 2 int a,b and return bigger of them.

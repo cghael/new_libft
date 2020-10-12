@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 static t_fstring		*ft_add_dig(t_fstring *numb, int round_dig)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 static void			ft_change_sign(char *tmp, t_ftptf tmp_t)
 {

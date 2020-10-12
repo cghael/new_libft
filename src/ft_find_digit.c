@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 /*
 ** Function moving (*p)ointer, while (**p) is a digit

@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 /*
 ** Function moving (*p)ointer, while define line (FLAGS, SIZE and other #define

@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 static void		ft_agr_dollar(t_ftptf *tmp_t, t_arg *ap_t)
 {

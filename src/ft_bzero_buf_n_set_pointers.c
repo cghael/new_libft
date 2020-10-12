@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
+//#include "libft.h"
 
 int		ft_bzero_buf_n_set_pointers(t_res *buf_t, const char *format)
 {

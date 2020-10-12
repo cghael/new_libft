@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 void		*ft_dollar_arg(int n, t_arg *ap_t)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 char		*ft_width_treat(int len, char *val, t_ftptf tmp_t)
 {

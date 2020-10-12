@@ -10,7 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+//#include "libft.h"
+#include "libft.h"
 
 static char		*ft_unsign_num(void *val, t_ftptf tmp_t, int l_size)
 {

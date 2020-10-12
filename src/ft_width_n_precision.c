@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 static char	*ft_precision(char *p, t_ftptf *tmp_t, t_arg *ap_t)
 {
