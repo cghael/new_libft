@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "libft.h"
 #include "libft.h"
 
 void	ft_error_exit(char *str, t_res *buf_t)

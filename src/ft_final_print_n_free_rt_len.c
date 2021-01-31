@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "libft.h"
 #include "libft.h"
 
 int		ft_final_print_n_free_rt_len(int fd, t_res *buf_t)

@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "libft.h"
 #include "libft.h"
 
 static char		*ft_is_ll(char *p, t_ftptf *tmp_t)

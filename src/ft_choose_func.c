@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "libft.h"
-//#include "libft.h"
 
 static void		ft_choose_cs(t_type func_n_spec[17])
 {
