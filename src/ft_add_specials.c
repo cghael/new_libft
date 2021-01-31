@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "libft.h"
 #include "libft.h"
 
 void		ft_add_specials(char *res, t_ftptf tmp_t)

@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "libft.h"
 #include "libft.h"
 
 void			ft_buff_treated_percent(t_res *buf_t)
